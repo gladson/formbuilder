@@ -8,6 +8,8 @@ Formbuilder is a graphical interface for letting users build their own webforms.
 ## Demo
 [Click here](http://dobtco.github.io/formbuilder/) to see Formbuilder in action.
 
+[Clique aqui](http://jsbin.com/EYofUkus/2) e veja o Formbuilder em ação.
+
 ## Basic usage
 ```
 <div id='formbuilder'></div>
